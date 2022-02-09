@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Fabrizzio Mauro",
+      "empresa": "Candados SA",
+      "email": "fabryedm@gmail.com",
+      "telefono": "03513983317",
+      "notas": "Vende candados de dudosa procedencia",
+      "id": 1
+    },
+    {
+      "nombre": "Pepe Grillo",
+      "empresa": "Logistica SA",
+      "email": "pepe@logistica.com",
+      "telefono": "12423423",
+      "notas": "Otro pelotudo mas",
+      "id": 3
+    }
+  ]
+}
